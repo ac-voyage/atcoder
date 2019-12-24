@@ -31,5 +31,6 @@
 *.out
 *.app
 
-# The template
+# Extra files
 tpl.cc
+*.py
