@@ -1,3 +1,4 @@
+/* AtCoder Beginner Contest 148. Task D - Brick Break. */
 #include <bits/stdc++.h>
 
 using namespace std;
