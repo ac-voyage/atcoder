@@ -34,3 +34,4 @@
 # Extra files
 tpl.cc
 *.py
+.vscode
